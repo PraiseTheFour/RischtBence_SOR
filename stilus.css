@@ -1,0 +1,17 @@
+body{
+    font-family: Arial, Verdana, sans-serif;
+    color: beige;
+    font-size: 10pt;
+    background-image: url("design/teglafal.jpg");
+    box-sizing:border-box;
+
+}
+h1{
+box-sizing:border-box;
+background-image: url("design/beer-new_401732638.jpg");
+background-size: auto;
+padding-top: auto;
+background-position: auto;
+background-repeat: no-repeat;
+}
+main{width: 80%;}
